@@ -46,7 +46,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ## >  THIS BOT IT USE MULTI DEVICE BAILEYS
 
-## > CHANGE LINK IN LIB FOLDER 📁📂 CHANGE HERE [https://github.com/hdesigb/zimbot-v4/edit/main/lib/Dockerfile]
+## > CHANGE LINK IN LIB FOLDER 📁📂 CHANGE HERE [https://github.com/Hdesigb/zimbot-v4]
 
 ``` 
 apt install nodejs
